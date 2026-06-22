@@ -38,7 +38,7 @@ ARG TARGETARCH
 ARG VENDOR
 ARG VERSION
 ARG BRANCH=develop
-ARG PackageOwner=faustvii
+ARG PackageOwner=Juansero29
 ARG PackageRepo=readarr
 
 ENV COMPlus_EnableDiagnostics=0 \
